@@ -59,7 +59,3 @@ A aplicação espera que a API backend esteja rodando em `http://localhost:3000`
 - `GET /usuarios` — lista usuários
 - `POST /usuarios` — cadastra usuário
 - `DELETE /usuarios/:id` — remove usuário
-
-## Licença
-
-Este projeto é open-source e está sob a licença MIT.
